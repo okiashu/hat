@@ -1,0 +1,13 @@
+body{
+ font-family: Arial;
+ background-color: black;
+ color: white;
+}
+
+button{
+  background-color: dodgerblue;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
